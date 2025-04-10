@@ -25,6 +25,10 @@ Exclusive course, promoted by Rocketseat for teaching web technologies.
 This project was developed with the following technologies:
 
 - Python
+
+
+## 🔧 Applications
+
 - Object-Oriented Programming
 - Classes and Objects
 - Inheritance
