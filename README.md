@@ -6,6 +6,7 @@ Exclusive course, promoted by Rocketseat for teaching web technologies.
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-applications">Applications</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
@@ -24,7 +25,11 @@ Exclusive course, promoted by Rocketseat for teaching web technologies.
 This project was developed with the following technologies:
 
 - Python
-- Git & Github
+- Object-Oriented Programming
+- Classes and Objects
+- Inheritance
+- Encapsulation
+- Polymorphism
 
 ## 💻 Project
 
